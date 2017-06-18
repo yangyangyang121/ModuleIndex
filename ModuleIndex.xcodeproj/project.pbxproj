@@ -369,14 +369,14 @@
 			baseConfigurationReference = 4FAA0F413EF1D6CD10240F47 /* Pods-ModuleIndex.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CURRENT_PROJECT_VERSION = 1.0.0;
+				CURRENT_PROJECT_VERSION = "";
 				DEVELOPMENT_TEAM = D9Y5V6R5LD;
 				INFOPLIST_FILE = ModuleIndex/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.daniel.ios.ModuleIndex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_EXPORT_DECL = 1.0.0;
+				VERSION_INFO_EXPORT_DECL = "";
 			};
 			name = Debug;
 		};
@@ -386,14 +386,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: marketing@jinjiang.com (34WSC8C86D)";
-				CURRENT_PROJECT_VERSION = 1.0.0;
+				CURRENT_PROJECT_VERSION = "";
 				DEVELOPMENT_TEAM = D9Y5V6R5LD;
 				INFOPLIST_FILE = ModuleIndex/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.daniel.ios.ModuleIndex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_EXPORT_DECL = 1.0.0;
+				VERSION_INFO_EXPORT_DECL = "";
 			};
 			name = Release;
 		};
